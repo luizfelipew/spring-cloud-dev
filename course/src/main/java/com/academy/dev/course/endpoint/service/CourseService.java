@@ -1,7 +1,7 @@
 package com.academy.dev.course.endpoint.service;
 
-import com.academy.dev.course.model.Course;
-import com.academy.dev.course.repository.CourseRepository;
+import com.academy.dev.core.model.Course;
+import com.academy.dev.core.repository.CourseRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

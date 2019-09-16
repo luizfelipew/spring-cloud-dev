@@ -1,4 +1,4 @@
-package com.academy.dev.course.model;
+package com.academy.dev.core.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

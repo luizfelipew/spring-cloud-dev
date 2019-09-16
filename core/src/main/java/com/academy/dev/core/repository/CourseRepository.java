@@ -1,6 +1,7 @@
-package com.academy.dev.course.repository;
+package com.academy.dev.core.repository;
 
-import com.academy.dev.course.model.Course;
+
+import com.academy.dev.core.model.Course;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 
