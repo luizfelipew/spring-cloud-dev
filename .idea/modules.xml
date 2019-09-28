@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/course/course.iml" filepath="$PROJECT_DIR$/course/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/course.iml" filepath="$PROJECT_DIR$/discovery/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/gateway.iml" filepath="$PROJECT_DIR$/discovery/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-dev.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-dev.iml" />
     </modules>
   </component>

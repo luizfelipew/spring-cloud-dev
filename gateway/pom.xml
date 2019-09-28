@@ -9,19 +9,19 @@
 		<relativePath>../</relativePath> <!-- lookup parent from repository -->
 	</parent>
 
-	<artifactId>course</artifactId>
+	<artifactId>gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>course</name>
-	<description>Spring Boot Microservices</description>
+	<name>gateway</name>
+	<description>Spring boot gateway</description>
 
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
-			<groupId>com.academy.dev</groupId>
-			<artifactId>core</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-zuul</artifactId>
 		</dependency>
 	</dependencies>
 
